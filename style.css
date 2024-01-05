@@ -14,7 +14,7 @@ html {
 }
 .main {
 	padding:0;
-	margin:0;
+	margin:0 auto;
 	
 	background:url(images/หัวเว็บ2.jpg) repeat-x top;
 }
